@@ -22,15 +22,6 @@ This project presents a **cost optimization solution** for managing billing reco
 2. **Older data** is archived into **Azure Blob Storage** (Cool/Archive tier).
 3. A fallback Azure Function checks Blob if Cosmos DB does not have the record.
 
----
-
-## 🏗️ Architecture
-
-![Architecture Diagram](./assets/architecture.jpg)
-
----
-
-
 ```
 
 ---
@@ -60,11 +51,6 @@ This project presents a **cost optimization solution** for managing billing reco
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 🤖 AI-Generated Help
 
