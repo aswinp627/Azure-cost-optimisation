@@ -26,21 +26,11 @@ This project presents a **cost optimization solution** for managing billing reco
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./assets/architecture.png)
+![Architecture Diagram](./assets/architecture.jpg)
 
 ---
 
-## 📂 Project Structure
 
-```
-Cost-Optimization/
-├── assets/
-│   └── architecture.png
-├── scripts/
-│   ├── archive_old_data.py
-│   └── read_fallback_function.js
-├── chatgpt-session.md
-└── README.md
 ```
 
 ---
