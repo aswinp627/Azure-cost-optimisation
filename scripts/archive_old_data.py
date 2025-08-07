@@ -1,5 +1,5 @@
-# archive_old_data.py
- 
+#This Python script moves old billing records (older than 3 months) from Azure Cosmos DB to Azure Blob Storage to save on storage and performance costs.
+
 import datetime
 import gzip
 import json
